@@ -13,7 +13,7 @@ const std::string OS = "unknown";
 
 int main() {
     std::cout << "Hello world, I'm running on " << OS << std::endl;
-    for (int i = 1; i <= 10; i++) {
+    for (int i = 2; i <= 22; i++) {
         std::cout << i << " ";
     }
     return 0;
